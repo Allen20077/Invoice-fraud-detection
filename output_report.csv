@@ -1,0 +1,19 @@
+Invoice_ID,PO_ID,Vendor,Invoice_Amount,Rule_Status,ML_Status
+INV201,PO101,ABC Ltd,520000,Duplicate Invoice,Normal
+INV202,PO102,XYZ Pvt,190000,Valid,Normal
+INV203,PO103,ABC Ltd,300000,Overbilling,Suspicious
+INV204,PO101,ABC Ltd,520000,Duplicate Invoice,Normal
+INV205,PO999,Fake Corp,100000,Invalid PO,Suspicious
+INV206,PO102,XYZ Pvt,210000,Valid,Normal
+INV207,PO103,ABC Ltd,160000,Overbilling,Normal
+INV208,PO101,ABC Ltd,500000,Valid,Suspicious
+INV209,PO103,ABC Ltd,150000,Valid,Normal
+INV210,PO102,XYZ Pvt,200000,Valid,Normal
+INV211,PO101,ABC Ltd,530000,Overbilling,Suspicious
+INV212,PO103,ABC Ltd,155000,Valid,Normal
+INV213,PO102,XYZ Pvt,205000,Valid,Normal
+INV214,PO101,ABC Ltd,510000,Valid,Suspicious
+INV215,PO103,ABC Ltd,158000,Overbilling,Normal
+INV216,PO102,XYZ Pvt,195000,Valid,Normal
+INV217,PO101,ABC Ltd,525000,Valid,Normal
+INV218,PO103,ABC Ltd,152000,Valid,Normal

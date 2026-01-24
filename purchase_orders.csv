@@ -1,0 +1,11 @@
+PO_ID,Vendor,Item,Quantity,PO_Amount
+PO201,ABC Ltd,Laptops,10,500000
+PO202,XYZ Pvt,Monitors,15,350000
+PO203,Tata Technologies,Servers,5,800000
+PO204,Infosys Ltd,Cloud Services,1,1250000
+PO205,Wipro Ltd,Networking Equipment,8,1000000
+PO206,Reliance Retail,POS Machines,12,650000
+PO207,HCL Technologies,Workstations,7,550000
+PO208,Tech Mahindra,Software Licenses,20,900000
+PO209,L&T Infotech,Data Center Hardware,4,1150000
+PO210,Flipkart Internet,Warehouse Automation,6,700000
